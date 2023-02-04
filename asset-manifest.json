@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/React-App-Foodordering/static/css/main.10c7730e.css",
+    "main.js": "/React-App-Foodordering/static/js/main.55dfaf9d.js",
+    "static/js/787.9643ecdb.chunk.js": "/React-App-Foodordering/static/js/787.9643ecdb.chunk.js",
+    "static/media/pizza_banner.png": "/React-App-Foodordering/static/media/pizza_banner.8b37239c310c6def84c7.png",
+    "static/media/about-image.png": "/React-App-Foodordering/static/media/about-image.ed863928a4532f3c08fa.png",
+    "static/media/foody.png": "/React-App-Foodordering/static/media/foody.fd6aa0dc27378ac4227b.png",
+    "static/media/ClashDisplay-Medium.woff2": "/React-App-Foodordering/static/media/ClashDisplay-Medium.88a32cc8fc026d95af05.woff2",
+    "static/media/ClashDisplay-Regular.woff2": "/React-App-Foodordering/static/media/ClashDisplay-Regular.98b52bdf102085f28108.woff2",
+    "static/media/ClashDisplay-Bold.woff2": "/React-App-Foodordering/static/media/ClashDisplay-Bold.e2f8628a6f360f644a76.woff2",
+    "static/media/revicons.eot": "/React-App-Foodordering/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/React-App-Foodordering/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/React-App-Foodordering/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/React-App-Foodordering/index.html",
+    "static/media/arrow-right-long-svgrepo-com.svg": "/React-App-Foodordering/static/media/arrow-right-long-svgrepo-com.a7f71589bf082b88f9b5f1b140b57870.svg",
+    "static/media/cart.svg": "/React-App-Foodordering/static/media/cart.2276ad715714ff0d6f0223caebec0359.svg",
+    "main.10c7730e.css.map": "/React-App-Foodordering/static/css/main.10c7730e.css.map",
+    "main.55dfaf9d.js.map": "/React-App-Foodordering/static/js/main.55dfaf9d.js.map",
+    "787.9643ecdb.chunk.js.map": "/React-App-Foodordering/static/js/787.9643ecdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10c7730e.css",
+    "static/js/main.55dfaf9d.js"
+  ]
+}
